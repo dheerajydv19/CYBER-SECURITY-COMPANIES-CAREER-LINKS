@@ -119,3 +119,12 @@ This is a collection of career pages of some cybersecurity companies. Feel free 
 | Reserved | | - |
 | Reserved | | - |
 
+Credit - This data has been copied from a pdf which is very unstructured, many of the links are not working in pc, so for ease of process, i created this repo. Thanks to the person who created that pdf, cant give credits to anyone since the pdf doesnt contain any info about the creator.
+
+## Contributions
+
+Contributions are always welcome!
+
+You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
+https://linktr.ee/dheerajydv19
+Developed with ❤️ in India 🇮🇳 
