@@ -59,28 +59,28 @@ This is a collection of career pages of some cybersecurity companies. Feel free 
 | Microsoft | | https://careers.microsoft.com/us/en |
 | Mimecast | | https://www.mimecast.com/company/careers-at-mimecast/ |
 | Mirox India | | https://www.miroxindia.com/career.html |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
+| Netrika | | https://www.netrika.com/work-with-us |
+| Network Intelligence | | https://www.niiconsulting.com/Careers.php |
+| NewWave | | https://www.newwavecomputing.com/career/ |
+| Optiv | | https://www.optiv.com/company/careers |
+| Palo Alto Networks | | https://jobs.paloaltonetworks.com/en/jobs/ |
+| Panacea InfoSec | | https://panaceainfosec.com/careers/ |
+| Panda Security | | https://www.pandasecurity.com/en/ |
+| Payatu | | https://payatu.com/career |
+| Positiwise | | https://positiwise.com/careers/ |
+| Prime Infoserv | | https://primeinfoserv.com/career/ |
+| Proofpoint | | https://www.proofpoint.com/us/company/careers |
+| Protiviti | | https://www.qrcsolutionz.com/careers |
+| PwC | | https://www.pwc.in/careers/job-search.html |
+| QA InfoTech | | https://qualitestgroup.com/careers/ |
+| QRC Solutions | | https://www.qrcsolutionz.com/careers |
+| Qseap Infotech | | https://www.qseap.com/career.php |
+| Qualys | | https://www.qualys.com/careers/ |
+| Quick Heal | | https://www.quickheal.co.in/jobs-careers-at-quick-heal |
+| Rapid7 | | https://www.rapid7.com/careers/ |
+| Risk Quotient | | https://www.rqsolutions.com/#join_us |
+| RSM Astute Consulting | | https://www.rsm.global/india/job-posts |
+| Safe Security | | https://jobs.safe.security/ |
 | A | | h |
 | A | | h |
 | A | | h |
