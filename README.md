@@ -81,20 +81,41 @@ This is a collection of career pages of some cybersecurity companies. Feel free 
 | Risk Quotient | | https://www.rqsolutions.com/#join_us |
 | RSM Astute Consulting | | https://www.rsm.global/india/job-posts |
 | Safe Security | | https://jobs.safe.security/ |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
-| A | | h |
+| Sattrix | | https://www.sattrix.com/career.html |
+| Secpod | | https://www.secpod.com/careers/ |
+| Secure Eyes | | https://secureyes.net/careers/ |
+| Secure Layer 7 | | https://securelayer7.net/careers |
+| Security Brigade | | https://careers.securitybrigade.com/jobs/Careers |
+| Sequretek | | https://sequretek.com/company/careers/ |
+| Shriji Solutins | | https://www.shrijisolutions.com/careers |
+| Siemens Limited | | https://new.siemens.com/in/en/company/jobs/search-careers.html |
+| SISA | | https://www.sisainfosec.com/careers/ |
+| SNSin | | https://www.snsin.com/careers.html |
+| Sonicwall | | https://www.sonicwall.com/about-sonicwall/careers/ |
+| Sophos | | https://www.sophos.com/en-us/careers/jobs |
+| STQC | | https://www.stqc.gov.in/vacancies |
+| Suma Soft | | https://www.sumasoft.com/careers/ |
+| Sumera Software | | https://sumeru.us/career |
+| TAC Security | | https://tacsecurity.com/careers/ |
+| Talakunchi Networks | | https://www.talakunchi.com/talakunchi-careers-in-information-security |
+| Tata Advanced Systems | | https://www.tataadvancedsystems.com/careers |
+| Tata Power | | https://www.tatapower-ddl.com/careerportal/applyoptions.aspx |
+| TCS | | https://www.tcs.com/careers |
+| Tech Controls | | https://tech-controls.com/careers/ |
+| Tech Mahindra | | https://careers.techmahindra.com/ |
+| TechDefense Labs | | https://techdefencelabs.com/current-openings.html |
+| Trend Micro | | https://www.trendmicro.com/en_in/about/careers.html |
+| Tsaaro | | https://tsaaro.com/careers/ |
+| Varutra Consulting | | https://www.varutra.com/careers/ |
+| Vista Infosec | | https://www.vistainfosec.com/careers/ |
+| Watchguard | | https://www.watchguard.com/wgrd-careers |
+| Wati | | https://www.wati.com/careers/ |
+| WEsecure App | | https://wesecureapp.com/careers/ |
+| Wi-Jungle | | https://www.wijungle.com/careers |
+| Wipro | | https://careers.wipro.com/careers-home/ |
+| Xiarch Solutions | | https://xiarch.com/company/careers/ |
+| Zscalar | | https://www.zscaler.com/careers |
+| Reserved | | - |
+| Reserved | | - |
+| Reserved | | - |
+
